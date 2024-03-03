@@ -1,0 +1,73 @@
+{
+  "profileCaster": [
+    {
+      "id": 1,
+      "name": "Ade Ray"
+    },
+    {
+      "id": 2,
+      "name": "Wakwaw"
+    }
+  ],
+  "profiles": {
+    "name": "yakuza",
+    "caster": [
+      {
+        "id": 1,
+        "name": "Ade Ray"
+      },
+      {
+        "id": 2,
+        "name": "Wakwaw"
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Aurelie Cheyne",
+      "email": "acheyne0@simplemachines.org",
+      "city": "Male",
+      "username": "acheyne0",
+      "website": "Redhold"
+    },
+    {
+      "id": 2,
+      "name": "Dael Leppo",
+      "email": "dleppo1@mapy.cz",
+      "city": "Non-binary",
+      "username": "dleppo1",
+      "website": "Cardify"
+    }
+  ],
+  "movie-list": [
+    {
+      "id": 1,
+      "name": "movie 1",
+      "caster": [
+        {
+          "id": 1,
+          "name": "Ade Ray"
+        },
+        {
+          "id": 2,
+          "name": "Wakwaw"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "movie 2",
+      "caster": [
+        {
+          "id": 3,
+          "name": "Ade Ray"
+        },
+        {
+          "id": 4,
+          "name": "Wakwaw"
+        }
+      ]
+    }
+  ]
+}
