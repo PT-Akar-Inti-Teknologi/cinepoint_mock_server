@@ -1,0 +1,15 @@
+{
+  "name": "cinepoint_mock_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/PT-Akar-Inti-Teknologi/cinepoint_mock_server.git",
+  "author": "Arizky Nurillahi <arizky.nurillahi@akarinti.tech>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "api": "json-server db.json --routes routes.json --no-cors=false"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
